@@ -1,4 +1,28 @@
-### Hi there 👋
+## Hola Soy Paserno 👋
+
+
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paserno&show_icons=true&theme=midnight-purple)-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=paserno&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paserno&layout=compact&theme=midnight-purple" />
+</a>
+
+<div style="display: inline_block"><br>
+ <!--<img align="center" alt="Rafa-Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> -->
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height"30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+
+##
+
+
 
 <!--
 **Paserno/Paserno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +37,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

@@ -5,10 +5,10 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paserno&show_icons=true&theme=midnight-purple)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=paserno&show_icons=true&theme=midnight-purple" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=paserno&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paserno&layout=compact&theme=midnight-purple" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paserno&layout=compact&theme=midnight-purple" />
 </a>
 
 <div style="display: inline_block"><br>

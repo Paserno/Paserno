@@ -23,7 +23,12 @@
 ##
 
 ![Snake animation](https://github.com/paserno/paserno/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+ ##
+  
+ <h3><p align="center">  </p><h3>
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/jovemm0nge/count.svg" /></p>
+  </div>
 <!--
 **Paserno/Paserno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

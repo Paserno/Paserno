@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paserno&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paserno&hide=javascript,html&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paserno&hide=css,html&theme=dracula)
 
   </div>
 
